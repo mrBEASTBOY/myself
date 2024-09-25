@@ -1,4 +1,4 @@
-# myself
+# mrBEASTBOY
 
 # Hi, I'm Linh! 👋
 ## Welcome to my GitHub profile
